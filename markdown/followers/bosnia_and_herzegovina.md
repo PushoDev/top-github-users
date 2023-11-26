@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2023/11/22 11:12 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2023/11/26 2:20 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -128,7 +128,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
-		<td>18</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -276,6 +276,32 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/nejramustagrudic">
+				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
+			</a><br/>
+			Nejra Mustagrudić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
+			<a href="https://github.com/merjemcs">
+				<img src="https://avatars.githubusercontent.com/u/94116997?s=72&u=e33d07ce3c1344b3b8026fecfac89cb447041d6d&v=4" width="24" alt="Avatar of merjemcs"> merjemcs
+			</a><br/>
+			Merjem Ćosović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo, Bosnia and Herzegovina</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
 			<a href="https://github.com/hariselmanovic">
 				<img src="https://avatars.githubusercontent.com/u/27975374?s=72&v=4" width="24" alt="Avatar of hariselmanovic"> hariselmanovic
 			</a><br/>
@@ -287,20 +313,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/nejramustagrudic">
-				<img src="https://avatars.githubusercontent.com/u/80315306?s=72&u=fc997fe66096d6bb40f2090e1b787d0dde9537e6&v=4" width="24" alt="Avatar of nejramustagrudic"> nejramustagrudic
-			</a><br/>
-			Nejra Mustagrudić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/nedoo14">
 				<img src="https://avatars.githubusercontent.com/u/53881661?s=72&v=4" width="24" alt="Avatar of nedoo14"> nedoo14
@@ -313,7 +326,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/BecirbasicAtif">
 				<img src="https://avatars.githubusercontent.com/u/32924807?s=72&u=588030b1733b1157275e023279310c1893f43346&v=4" width="24" alt="Avatar of BecirbasicAtif"> BecirbasicAtif
@@ -326,7 +339,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/ckfbih">
 				<img src="https://avatars.githubusercontent.com/u/13263224?s=72&u=482229581f1166d45b39df19d12e0dbd6eb3b9f0&v=4" width="24" alt="Avatar of ckfbih"> ckfbih
@@ -339,7 +352,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/ajdinhusetovic">
 				<img src="https://avatars.githubusercontent.com/u/116389962?s=72&u=5f6d5f1c2d8ae7223fa403af45d3ff81b5ae89af&v=4" width="24" alt="Avatar of ajdinhusetovic"> ajdinhusetovic
@@ -352,7 +365,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/saudinahmetspahic">
 				<img src="https://avatars.githubusercontent.com/u/49145127?s=72&u=ac14e5ccd00ae25cd0f5fd2837bbe114becf64e6&v=4" width="24" alt="Avatar of saudinahmetspahic"> saudinahmetspahic
@@ -362,19 +375,6 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bosnia & Herzegovina, Zenica</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/merjemcs">
-				<img src="https://avatars.githubusercontent.com/u/94116997?s=72&u=e33d07ce3c1344b3b8026fecfac89cb447041d6d&v=4" width="24" alt="Avatar of merjemcs"> merjemcs
-			</a><br/>
-			Merjem Ćosović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>1</td>
 	</tr>
 	<tr>
