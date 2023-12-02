@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/11/29 6:08 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/12/2 6:07 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -115,7 +115,7 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>1426</td>
+		<td>1604</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -180,7 +180,7 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Studying </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>160</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -284,7 +284,7 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Gplus </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>40</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -310,7 +310,7 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Void * </td>
 		<td><a href="https://twitter.com/IranEzechiel">IranEzechiel</a></td>
 		<td>N'Djamena, Tchad</td>
-		<td>20</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>17</td>
