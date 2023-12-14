@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `number of followers` of users in Bosnia And Herzegovina on `2023/12/11 1:06 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `number of followers` of users in Bosnia And Herzegovina on `2023/12/14 1:04 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -167,7 +167,7 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Rez Agency </td>
 		<td><a href="https://twitter.com/srebreni3">srebreni3</a></td>
 		<td>Zenica</td>
-		<td>13</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>6</td>
