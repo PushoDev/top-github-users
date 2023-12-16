@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/12/13 11:01 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/12/16 11:01 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -141,7 +141,7 @@ There are `58 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>41</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -315,19 +315,6 @@ There are `58 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/AscentEmirates">
-				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
-			</a><br/>
-			Ascent Emirates FZ LLC
-		</td>
-		<td>Ascent Emirates Fz Llc<br/></td>
-		<td><a href="https://twitter.com/EmiratesAscent">EmiratesAscent</a></td>
-		<td>Office 1401, Boulevard Plaza Tower One, EMAAR Boulevard, Near “The Dubai Mall”, Opp “Burj Khalifa”, Downtown Dubai, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/eaf-uae">
 				<img src="https://avatars.githubusercontent.com/u/137379053?s=72&u=d550b7819dde2adcbfa10a253460d85d905fc2a8&v=4" width="24" alt="Avatar of eaf-uae"> eaf-uae
 			</a><br/>
@@ -336,6 +323,19 @@ There are `58 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/AscentEmirates">
+				<img src="https://avatars.githubusercontent.com/u/127314842?s=72&v=4" width="24" alt="Avatar of AscentEmirates"> AscentEmirates
+			</a><br/>
+			Ascent Emirates FZ LLC
+		</td>
+		<td>Ascent Emirates Fz Llc<br/></td>
+		<td><a href="https://twitter.com/EmiratesAscent">EmiratesAscent</a></td>
+		<td>Office 1401, Boulevard Plaza Tower One, EMAAR Boulevard, Near “The Dubai Mall”, Opp “Burj Khalifa”, Downtown Dubai, UAE</td>
 		<td>1</td>
 	</tr>
 	<tr>
