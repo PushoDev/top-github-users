@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/12/25 4:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/12/28 3:16 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -284,7 +284,7 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@canonical </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -393,6 +393,19 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/miguelgargallo">
+				<img src="https://avatars.githubusercontent.com/u/5947268?s=72&u=82ed2744cdab817f6d69bef016ed9cc2e314ce8a&v=4" width="24" alt="Avatar of miguelgargallo"> miguelgargallo
+			</a><br/>
+			Miguel Gargallo
+		</td>
+		<td>Pencil, Itamaesan & Superdata<br/></td>
+		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
+		<td>Andorra, Andorra La Vella</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/akurkin">
 				<img src="https://avatars.githubusercontent.com/u/88654?s=72&u=3e33fecdb9c8657ad2c326443ad2c7e8b65ceab2&v=4" width="24" alt="Avatar of akurkin"> akurkin
 			</a><br/>
@@ -402,19 +415,6 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/iamalexkurkin">iamalexkurkin</a></td>
 		<td>Andorra</td>
 		<td>33</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/miguelgargallo">
-				<img src="https://avatars.githubusercontent.com/u/5947268?s=72&u=82ed2744cdab817f6d69bef016ed9cc2e314ce8a&v=4" width="24" alt="Avatar of miguelgargallo"> miguelgargallo
-			</a><br/>
-			Miguel Gargallo
-		</td>
-		<td>Pencil, Itamaesan & Superdata<br/></td>
-		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
-		<td>Andorra, Andorra La Vella</td>
-		<td>32</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -666,19 +666,6 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>44</td>
 		<td>
-			<a href="https://github.com/francrodriguez">
-				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
-			</a><br/>
-			Franc Rodriguez
-		</td>
-		<td>@tecob  </td>
-		<td><a href="https://twitter.com/franc">franc</a></td>
-		<td>Andorra la Vella, Andorra, Europe</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>
 			<a href="https://github.com/im-here">
 				<img src="https://avatars.githubusercontent.com/u/12947399?s=72&u=69087e1bf52dbf1367834f948e11f555a34fa5fc&v=4" width="24" alt="Avatar of im-here"> im-here
 			</a><br/>
@@ -687,6 +674,19 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/francrodriguez">
+				<img src="https://avatars.githubusercontent.com/u/2232647?s=72&u=b0ef641a7873b8ed99923a6680e13067efa468c4&v=4" width="24" alt="Avatar of francrodriguez"> francrodriguez
+			</a><br/>
+			Franc Rodriguez
+		</td>
+		<td>@tecob  </td>
+		<td><a href="https://twitter.com/franc">franc</a></td>
+		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -1849,10 +1849,10 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
-			<a href="https://github.com/agasnikov">
-				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
+			<a href="https://github.com/yonimnemonic">
+				<img src="https://avatars.githubusercontent.com/u/12298432?s=72&u=c49ae041edb3cca6a0b3c05306103c64782bc4a2&v=4" width="24" alt="Avatar of yonimnemonic"> yonimnemonic
 			</a><br/>
-			Alexander Gasnikov
+			yonimnemonic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1862,10 +1862,10 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>136</td>
 		<td>
-			<a href="https://github.com/yonimnemonic">
-				<img src="https://avatars.githubusercontent.com/u/12298432?s=72&u=c49ae041edb3cca6a0b3c05306103c64782bc4a2&v=4" width="24" alt="Avatar of yonimnemonic"> yonimnemonic
+			<a href="https://github.com/agasnikov">
+				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
 			</a><br/>
-			yonimnemonic
+			Alexander Gasnikov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1966,10 +1966,10 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/FabioIndustries">
-				<img src="https://avatars.githubusercontent.com/u/77511365?s=72&u=19bf0cd591f6f0b569cd7cd1333452b6b5f1665a&v=4" width="24" alt="Avatar of FabioIndustries"> FabioIndustries
+			<a href="https://github.com/lomie107">
+				<img src="https://avatars.githubusercontent.com/u/74588937?s=72&v=4" width="24" alt="Avatar of lomie107"> lomie107
 			</a><br/>
-			Fabio
+			Loes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1979,10 +1979,10 @@ There are `314 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>145</td>
 		<td>
-			<a href="https://github.com/lomie107">
-				<img src="https://avatars.githubusercontent.com/u/74588937?s=72&v=4" width="24" alt="Avatar of lomie107"> lomie107
+			<a href="https://github.com/FabioIndustries">
+				<img src="https://avatars.githubusercontent.com/u/77511365?s=72&u=19bf0cd591f6f0b569cd7cd1333452b6b5f1665a&v=4" width="24" alt="Avatar of FabioIndustries"> FabioIndustries
 			</a><br/>
-			Loes
+			Fabio
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
