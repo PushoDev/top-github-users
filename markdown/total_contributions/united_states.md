@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States">
 </a>
 
-The `public contributions` and `private contributions` by users in United States on `2024/1/27 11:10 AM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
+The `public contributions` and `private contributions` by users in United States on `2024/1/27 11:19 AM UTC`. This list contains users from `United States` and cities `New-york` `Chicago` `Los-angeles` `San-francisco` `Austin` `Seattle`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -117,7 +117,7 @@ There are `917 users`  in United States. You need at least `510 followers` to be
 		<td><a href="https://twitter.com/palewire">palewire</a></td>
 		<td>New York City</td>
 		<td>22514</td>
-		<td>95880</td>
+		<td>95881</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1852,8 +1852,8 @@ There are `917 users`  in United States. You need at least `510 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seattle, WA, USA</td>
-		<td>1955</td>
-		<td>1955</td>
+		<td>1957</td>
+		<td>1957</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -3379,7 +3379,7 @@ There are `917 users`  in United States. You need at least `510 followers` to be
 		<td>No Twitter Username</td>
 		<td>Austin, TX</td>
 		<td>87</td>
-		<td>1041</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>235</td>
@@ -5282,8 +5282,8 @@ There are `917 users`  in United States. You need at least `510 followers` to be
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>New York, United States</td>
-		<td>412</td>
-		<td>530</td>
+		<td>413</td>
+		<td>531</td>
 	</tr>
 	<tr>
 		<td>371</td>
