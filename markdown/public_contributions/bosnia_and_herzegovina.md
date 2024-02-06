@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2024/2/3 1:00 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2024/2/6 12:25 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -115,23 +115,10 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ajdin_husetovic">ajdin_husetovic</a></td>
 		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>333</td>
+		<td>334</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/Sarmingo">
-				<img src="https://avatars.githubusercontent.com/u/78432708?s=72&u=cac917c8754a78e55be6d40c8dd43d8460030bc9&v=4" width="24" alt="Avatar of Sarmingo"> Sarmingo
-			</a><br/>
-			Sarmingoo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sarajevo</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/srebreni3">
 				<img src="https://avatars.githubusercontent.com/u/59295000?s=72&u=1909d333537bbf734b06dc7f03b5545c9eafef39&v=4" width="24" alt="Avatar of srebreni3"> srebreni3
@@ -141,23 +128,23 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>Rez Agency </td>
 		<td><a href="https://twitter.com/srebreni3">srebreni3</a></td>
 		<td>Zenica</td>
-		<td>126</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/Sarmingo">
+				<img src="https://avatars.githubusercontent.com/u/78432708?s=72&u=cac917c8754a78e55be6d40c8dd43d8460030bc9&v=4" width="24" alt="Avatar of Sarmingo"> Sarmingo
+			</a><br/>
+			Sarmingoo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sarajevo</td>
+		<td>127</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>
-			<a href="https://github.com/Nbc66">
-				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
-			</a><br/>
-			Kerim Čamdžić
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
-		<td>Sarajevo</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>5</td>
 		<td>
 			<a href="https://github.com/KerimZuna">
 				<img src="https://avatars.githubusercontent.com/u/85747649?s=72&u=10812e1cbd48e524b87870d0bd62fa8d69643964&v=4" width="24" alt="Avatar of KerimZuna"> KerimZuna
@@ -168,6 +155,19 @@ There are `32 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Zenica</td>
 		<td>86</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/Nbc66">
+				<img src="https://avatars.githubusercontent.com/u/34843947?s=72&u=c15e9f688ab4865655e235bba8691156719a5f1a&v=4" width="24" alt="Avatar of Nbc66"> Nbc66
+			</a><br/>
+			Kerim Čamdžić
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
+		<td>Sarajevo</td>
+		<td>85</td>
 	</tr>
 	<tr>
 		<td>6</td>
