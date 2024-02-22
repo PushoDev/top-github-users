@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/2/19 8:02 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/2/22 6:19 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -297,7 +297,7 @@ There are `258 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/phenomfvr">phenomfvr</a></td>
 		<td>Freetown</td>
-		<td>8</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>16</td>
