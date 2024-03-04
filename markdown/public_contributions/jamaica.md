@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" alt="Jamaica">
 </a>
 
-The `public contributions` by users in Jamaica on `2024/3/1 2:19 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
+The `public contributions` by users in Jamaica on `2024/3/4 4:03 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
