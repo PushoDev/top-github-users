@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2024/3/8 3:02 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2024/3/11 2:02 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -115,7 +115,7 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>213</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1043,19 +1043,6 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/sinhard">
-				<img src="https://avatars.githubusercontent.com/u/15619892?s=72&u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4" width="24" alt="Avatar of sinhard"> sinhard
-			</a><br/>
-			Mohamed S Harding
-		</td>
-		<td>Neu Labs Limited </td>
-		<td><a href="https://twitter.com/mohamedsharding">mohamedsharding</a></td>
-		<td>3A Wellington Street, Freetown</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/alhajimsabu">
 				<img src="https://avatars.githubusercontent.com/u/19788171?s=72&u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4" width="24" alt="Avatar of alhajimsabu"> alhajimsabu
 			</a><br/>
@@ -1064,6 +1051,19 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/sinhard">
+				<img src="https://avatars.githubusercontent.com/u/15619892?s=72&u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4" width="24" alt="Avatar of sinhard"> sinhard
+			</a><br/>
+			Mohamed S Harding
+		</td>
+		<td>Neu Labs Limited </td>
+		<td><a href="https://twitter.com/mohamedsharding">mohamedsharding</a></td>
+		<td>3A Wellington Street, Freetown</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1537,19 +1537,6 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>111</td>
 		<td>
-			<a href="https://github.com/sdaffae">
-				<img src="https://avatars.githubusercontent.com/u/14101399?s=72&u=eac0d376d823dae0206841214b03d80a819d1015&v=4" width="24" alt="Avatar of sdaffae"> sdaffae
-			</a><br/>
-			Sorieba Daffae
-		</td>
-		<td>@digitalleglobal @fixsolution  </td>
-		<td>No Twitter Username</td>
-		<td>Freetown</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
 			<a href="https://github.com/chochoma">
 				<img src="https://avatars.githubusercontent.com/u/64731010?s=72&v=4" width="24" alt="Avatar of chochoma"> chochoma
 			</a><br/>
@@ -1558,6 +1545,19 @@ There are `259 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td> Kacho Solutions Ltd.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
+			<a href="https://github.com/sdaffae">
+				<img src="https://avatars.githubusercontent.com/u/14101399?s=72&u=eac0d376d823dae0206841214b03d80a819d1015&v=4" width="24" alt="Avatar of sdaffae"> sdaffae
+			</a><br/>
+			Sorieba Daffae
+		</td>
+		<td>@digitalleglobal @fixsolution  </td>
+		<td>No Twitter Username</td>
+		<td>Freetown</td>
 		<td>1</td>
 	</tr>
 	<tr>
