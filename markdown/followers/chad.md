@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/3/9 6:16 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/3/12 5:14 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
-There are `135 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `136 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -251,7 +251,7 @@ There are `135 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>12</td>
 		<td>
 			<a href="https://github.com/MikkMaltis">
-				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=b20db8ac146d9bb8b80cc0ed6c6c27e6f39639d1&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
+				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=d2c320dc400c44cb51b5bc1adeb9ba2a815cabaa&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
 			</a><br/>
 			Mikk Maltis
 		</td>
