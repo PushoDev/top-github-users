@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `public contributions` and `private contributions` by users in El Salvador on `2024/3/16 2:18 AM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `public contributions` and `private contributions` by users in El Salvador on `2024/3/16 2:25 AM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -565,7 +565,7 @@ There are `983 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>San Salvador de Jujuy, Jujuy, Argentina</td>
 		<td>12</td>
-		<td>762</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>34</td>
