@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/3/26 11:01 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2024/3/29 10:14 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/PushoDev/top-github-users).
 
@@ -116,8 +116,8 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/abxhraslam">abxhraslam</a></td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>16</td>
-		<td>467</td>
+		<td>11</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>7</td>
-		<td>392</td>
+		<td>408</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>142</td>
-		<td>351</td>
+		<td>127</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>75</td>
-		<td>78</td>
+		<td>66</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>42</td>
-		<td>42</td>
+		<td>45</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -201,7 +201,7 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>0</td>
-		<td>25</td>
+		<td>27</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -388,6 +388,20 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/arabiandubaitour">
+				<img src="https://avatars.githubusercontent.com/u/165359257?s=72&u=83f71f96eae78cd36cead56829840da02e136f83&v=4" width="24" alt="Avatar of arabiandubaitour"> arabiandubaitour
+			</a><br/>
+			Arabian Dubai Tour
+		</td>
+		<td>Arabian Luxury Overnight Desert<br/>Safari<br/>Dubai<br/></td>
+		<td><a href="https://twitter.com/ArabianDesertS7">ArabianDesertS7</a></td>
+		<td>Dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/newworldhorizonuae">
 				<img src="https://avatars.githubusercontent.com/u/149070137?s=72&u=d1509260687adcbce52b80148d2109bd6a8feabe&v=4" width="24" alt="Avatar of newworldhorizonuae"> newworldhorizonuae
 			</a><br/>
@@ -400,7 +414,7 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/botanicaloungesocial">
 				<img src="https://avatars.githubusercontent.com/u/161417739?s=72&v=4" width="24" alt="Avatar of botanicaloungesocial"> botanicaloungesocial
@@ -414,35 +428,7 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/FloorCenter">
-				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
-			</a><br/>
-			Floor Center
-		</td>
-		<td>Floorcenter </td>
-		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
-		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>24</td>
-		<td>
-			<a href="https://github.com/globalvanchiller">
-				<img src="https://avatars.githubusercontent.com/u/161585683?s=72&v=4" width="24" alt="Avatar of globalvanchiller"> globalvanchiller
-			</a><br/>
-			Global Van Chiller
-		</td>
-		<td>Global Van Chiller </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/multiwo">
 				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
@@ -452,6 +438,20 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Multiwood </td>
 		<td>No Twitter Username</td>
 		<td>dubai</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/FloorCenter">
+				<img src="https://avatars.githubusercontent.com/u/148543619?s=72&v=4" width="24" alt="Avatar of FloorCenter"> FloorCenter
+			</a><br/>
+			Floor Center
+		</td>
+		<td>Floorcenter </td>
+		<td><a href="https://twitter.com/Floorcenter123">Floorcenter123</a></td>
+		<td>Mall, Warehouse - Al Asayel St - 6 - near Al Quoz - Al Quoz Industrial Area 3 - Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -486,12 +486,12 @@ There are `65 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/gypsyroseholistic">
-				<img src="https://avatars.githubusercontent.com/u/160602976?s=72&v=4" width="24" alt="Avatar of gypsyroseholistic"> gypsyroseholistic
+			<a href="https://github.com/globalvanchiller">
+				<img src="https://avatars.githubusercontent.com/u/161585683?s=72&v=4" width="24" alt="Avatar of globalvanchiller"> globalvanchiller
 			</a><br/>
-			Gypsy Rose Holistic
+			Global Van Chiller
 		</td>
-		<td>No Company</td>
+		<td>Global Van Chiller </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>1</td>
